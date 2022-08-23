@@ -1,4 +1,4 @@
 - 👋 hola soy @mela94
 - 🌱 Programador.
-- 💞️ Estoy en buqueda de insertarme al mundo IT.
+- 💞️ Mundo IT.
 - 📫 Me pueden contactar a mi email que es francomelazo@gmail.com
