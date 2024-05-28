@@ -1,4 +1,4 @@
-- 👋 hola soy @mela94
-- 🌱 Programador.
-- 💞️ Mundo IT.
+- 👋 hola soy @mela94.
+- 🌱 Data Analyst & Lawyer.
+- 💞️ Conocimientos de programacion.
 - 📫 Me pueden contactar a mi email que es francomelazo@gmail.com
